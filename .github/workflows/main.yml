@@ -15,5 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: dev.wowinfotech.net
-        username: testingcicd@dev.wowinfotech.net
-        password: u^$*^kz-~HP(
+        username: ftp_testingcicd@dev.wowinfotech.net
+        password: 4T*y.Z-+O$G}
