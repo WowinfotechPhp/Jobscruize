@@ -12,7 +12,7 @@ jobs:
       uses: actions/checkout@v3
     
     - name: Sync files
-      uses: wowinfotech/FTP-Deploy-Action@v4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: dev.wowinfotech.net
         username: ftp_testingcicd@dev.wowinfotech.net
